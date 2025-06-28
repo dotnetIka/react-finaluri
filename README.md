@@ -2,6 +2,10 @@
 
 A responsive Single Page Application (SPA) built with React that displays information about countries using the REST Countries API.
 
+## 🌐 Live Demo
+
+**🌍 [View Live Application](https://effulgent-naiad-5405e4.netlify.app/countries)**
+
 ## 🌟 Features
 
 ### ✅ Core Requirements
@@ -66,6 +70,22 @@ A responsive Single Page Application (SPA) built with React that displays inform
 
 4. **Open your browser:**
    Navigate to `http://localhost:3000`
+
+## 🚀 Deployment
+
+The application is deployed on **Netlify** and available at:
+**🌍 [https://effulgent-naiad-5405e4.netlify.app/countries](https://effulgent-naiad-5405e4.netlify.app/countries)**
+
+### Build for Production:
+```bash
+npm run build
+```
+
+### Deploy to Netlify:
+1. Connect your GitHub repository to Netlify
+2. Set build command: `npm run build`
+3. Set publish directory: `build`
+4. Deploy automatically on push to main branch
 
 ## 🏗️ Project Structure
 
